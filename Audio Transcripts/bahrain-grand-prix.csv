@@ -1,0 +1,602 @@
+Lap*,Driver,Message
+PR,To Kimi Raikkonen,Box this lap for the start.
+,,
+PR,From Kevin Magnussen,There’s something wrong with the K deployment.
+PR,To Kevin Magnussen,We’re investigating.
+,,
+PR,From Kevin Magnussen,"It doesn’t feel healthy, guys, there’s something wrong."
+PR,To Kevin Magnussen,OK we are taking a look.
+,,
+PR,From Lewis Hamilton,It’s quite dusty even in the pit lane.
+PR,To Lewis Hamilton,Yeah copy that.
+,,
+PR,To Sebastian Vettel,"Watch out for wind, wind is quite strong"
+,,
+PR,From Sebastian Vettel,"Six, seven."
+PR,From Esteban Ocon,"I have some understeer now in the car, quite a lot. Turn 11, five, six, seven. Thirteen as well. Back on the grid now."
+PR,To Esteban Ocon,"Copy that Esteban. It’s to be expected, I think."
+,,
+PR,From Esteban Ocon,"I have some vibration but it’s the tyres which I flat-spotted, no, in quali?"
+PR,To Esteban Ocon,Copy that.
+,,
+PR,From Esteban Ocon,"Was it, yeah?"
+PR,To Esteban Ocon,"It was, but they’re rebalanced."
+,,
+PR,From Esteban Ocon,OK.
+PR,To Lance Stroll,"So after turn 13 we’re lift-and-coast, cool the car, straight to grid, remember to check your drinks."
+,,
+PR,From Lance Stroll,"OK copy straight to the grid, drinks are working."
+PR,To Romain Grosjean,"OK dude you can go to the grid, P9 left-hand side."
+,,
+PR,From Lance Stroll,"Just to confirm, shut off?"
+PR,To Kevin Magnussen,"OK confirm we go to the grid, go to the grid, five me confirmation."
+,,
+PR,From Kevin Magnussen,Understood we go to the grid.
+PR,To Kevin Magnussen,OK you’ll see us there.
+,,
+PR,To Romain Grosjean,Should I stay in P1 or bring it to P0?
+,,
+PR,To Romain Grosjean,You should go to P0.
+,,
+PR,From Lewis Hamilton,Radio check
+PR,To Lewis Hamilton,"Yep, radio’s loud and clear"
+,,
+PR,To Lewis Hamilton,Radio check from the garage.
+,,
+PR,From Lewis Hamilton,Loud and clear.
+PR,To Lewis Hamilton,Seven minutes to formation lap. Still headwind into one changing between 10 and 20kph.
+,,
+PR,To Kimi Raikkonen,Radio check Kimi.
+,,
+PR,From Kimi Raikkonen,"Yeah it’s OK. I don’t know if we should take a quarter more out or not, I don’t know. Take a quarter out more and then we;ll see wher ewe are. I don’t think it’s going to do a lot different."
+PR,To Kimi Raikkonen,OK Kimi the…
+,,
+PR,From Kimi Raikkonen,What’s the issue?
+PR,To Kimi Raikkonen,Just a little bit of damage on the turning vane so we’re adding some tape to cover it over.
+,,
+PR,From Lewis Hamilton,Radio check Lewis. Same procedure…
+PR,To Lewis Hamilton,This umbillical’s really in the way.
+,,
+PR,From Lewis Hamilton,"Copy that Lewis, we’ll make some improvements with that. So standard procedure like the last two races. Bite point find 30 seconds after firing up and then ten seconds after you arrive back on the grid. Remember the weight revs in the first formation lap start won’t be as good as the weight revs in the race start."
+PR,To Kevin Magnussen,"Ericsson on soft, Ocon is super-soft, Perez super-soft."
+,,
+1,To Valtteri Bottas,So Vettel car behind.
+,,
+1,To Lewis Hamilton,"OK Lewis so Verstappen car behind, 0.6."
+,,
+1,From Daniil Kvyat,"I lost a lot of places, sorry guys."
+1,To Daniil Kvyat,Danny keep your head down.
+,,
+2,To Max Verstappen,"OK display eight Max, when you can."
+,,
+2,From Lewis Hamilton,Feels poor.
+2,To Valtteri Bottas,HPP eight to two.
+,,
+3,To Max Verstappen,"Alright Max maybe some tyre management going on ahead. Keep a decent gap to the cars ahead, nice and easy on the tyres at this stage, follow your dash."
+,,
+3,To Max Verstappen,DRS now enabled.
+,,
+3,To Valtteri Bottas,So surface temps well under control at the moment.
+,,
+3,To Lewis Hamilton,Try to improve lift-and-coast efficiency. Verstappen 0.5 behind.
+,,
+4,To Valtteri Bottas,"So Vettel now has DRS, use the overtake if you need it."
+,,
+4,To Daniel Ricciardo,"Bottas pace at the front not that quick, he’s doing 36.7s. So top five cars now all doing exactly the same lap time, everyone 36.8s."
+,,
+4,To Lewis Hamilton,Think about pushing [brake balance] forwards. Verstappen 0.8 behind.
+,,
+5,To Esteban Ocon,Suggest white button for turn one.
+,,
+5,To Daniel Ricciardo,OK so that last lap everyone did a 36.6.
+,,
+5,To Daniel Ricciardo,Tyre temperatures starting to stabilise. Just keep an eye on that left-rear.
+,,
+5,To Pascal Wehrlein,"List off for brakes, 250 metres."
+,,
+5,To Max Verstappen,OK Max all under control at the moment. Rear-left tyre temps still creeping up a little bit so think about the corners we discussed.
+,,
+5,From Lewis Hamilton,Tag two to three.
+5,To Lewis Hamilton,Copy.
+,,
+6,To Daniel Ricciardo,OK mate. Pace at the front stable. People doing 36.5s. Not opening up much.
+,,
+6,To Daniel Ricciardo,"You’re pulling away from Massa, he’s now 2.1 seconds behind you, he’s doing a good job of holding up Raikkonen."
+,,
+6,To Daniel Ricciardo,How are the tyres and the balance?
+,,
+6,From Daniel Ricciardo,"Tyres are OK at the moment. Feel I can hang with them. Just got to manage, mainly entries."
+7,To Daniel Ricciardo,OK Daniel understood. Let us know if you want to do anything different with the front wing.
+,,
+7,From Daniel Ricciardo,At the moment it’s all in the ball park.
+7,To Daniel Ricciardo,OK undestood. Top two cars that lap was a 37.1. Pace is not fast at the front.
+,,
+7,To Max Verstappen,"Remember line one, Max."
+,,
+7,From Lance Stroll,Got a little flat spot.
+7,To Lewis Hamilton,"So gap to Vettel 0.8, gap to Verstappen 0.6."
+,,
+8,To Fernando Alonso,Fernando how are the tyres?
+,,
+8,From Fernando Alonso,"Difficult to know. They are OK, I think."
+8,From Lance Stroll,He’s really holding me up and I have this flat spot.
+8,From Lance Stroll,Think about boxing.
+8,To Lance Stroll,Yeah.
+,,
+8,To Kimi Raikkonen,Great job Kimi.
+,,
+9,To Daniel Ricciardo,"OK Daniel you’re doing a good job. Tyres are looking pretty stable on temperatuers. You’re doing a good job, mate."
+,,
+9,To Fernando Alonso,"Stroll just pitted, we’re still thinking Plan A."
+,,
+9,From Fernando Alonso,OK.
+9,To Lewis Hamilton,Good job with front brakes.
+,,
+9,To Kimi Raikkonen,"Pace is good, Kimi, you were quicker than the guys in front. Just think about being smart with the fuel saving now."
+,,
+9,From Max Verstappen,We are quicker than them but I got stuck.
+10,From Kimi Raikkonen,Are we OK? Are we under the number correct?
+10,To Kimi Raikkonen,"Copy, just remember it will get worse."
+,,
+10,To Kimi Raikkonen,So there’s a yellow flag in turn eight at the minute.
+,,
+10,To Pascal Wehrlein,We need 25 metres more braking turn one and then we should be safe.
+,,
+10,To Daniel Ricciardo,"OK Daniel Raikkonen behind you in free air but he’s not quick, he’s doinug 36.8s."
+,,
+10,From Daniel Ricciardo,"OK, understood."
+10,To Daniel Ricciardo,"Any more updates on tyres, Daniel, how are you getting on? Temperatures look under control."
+,,
+10,From Daniel Ricciardo,Yeah all under control for now.
+10,To Daniel Ricciardo,OK mate you’re doing a good job. Well managed.
+,,
+10,From Daniel Ricciardo,Definitely feel in free air I’ve got more pace. I’ll try to hang with them.
+10,To Daniel Ricciardo,Understood.
+,,
+11,To Max Verstappen,"Give up a little bit in turn 12 if you can, Max. Not really gaining anything much, just stressing the tyres."
+,,
+11,From Max Verstappen,"I think we need to do something as well, like Ferrari."
+11,To Max Verstappen,"We are monitoring, Max."
+,,
+11,To Kimi Raikkonen,"OK Seb has boxed, Kimi. You’re still quicker than all these guys in front, Kimi, you’re doing a good job, just keep it up."
+,,
+11,To Lewis Hamilton,"Give us a balance check, Lewis, it won’t be long."
+,,
+11,From Lewis Hamilton,Generally understeery.
+11,To Lewis Hamilton,So down half or down one?
+,,
+11,From Lewis Hamilton,Down one.
+11,To Lewis Hamilton,Copy.
+,,
+11,To Max Verstappen,OK you’ve got a four-and-a-half second gap to Perez ahead.
+,,
+12,To Max Verstappen,"OK white line on the exit, torque four now."
+,,
+12,To Kimi Raikkonen,"Update on race situation. Seb has stopped, he’s trying to get through traffic at the minute."
+,,
+12,From Max Verstappen,Brakes failed. Aargh!
+12,To Max Verstappen,"OK Max. Ignition, P1, P0 please mate. P1, ten seconds, P0. Hard luck."
+,,
+13,From Kimi Raikkonen,OK a little bit front wing.
+13,To Kimi Raikkonen,"So box opposite Ricciardo. Do the opposite to Ricciardo. Concentrate on position, Kimi. Just watch for Alonso, Palmer on track. And engine one, Kimi."
+,,
+13,To Daniel Ricciardo,It’s yellow turn four. Verstappen shunted.
+,,
+13,From Lance Stroll,I got hit from the side. Completely destroyed from the side. I don’t know what happened.
+13,To Lance Stroll,OK. You OK.
+,,
+13,From Lance Stroll,Yeah I’m fine.
+13,From Carlos Sainz Jnr,He hit me. [Censored by FOM] Stroll hit me. He didn’t see me coming. Turned into me like I was not there.
+13,To Valtteri Bottas,So remember only just positive. It’s going to be tight with Vettel. Brake balance for the box.
+,,
+14,To Valtteri Bottas,"And it’ll be tight with Vettel on exit. Entry six, mid four when you can. So you’ve come out behind Vettel."
+,,
+14,To Valtteri Bottas,So watch for Stroll who is off on the right-hand side at turn two. You’re on super-soft tyres. We did no flap adjust. Your pressures were over one psi too high due to a problem. Your grip will be better this stint.
+,,
+14,From Valtteri Bottas,Copy that. Yeah it was a struggle.
+14,To Valtteri Bottas,Reset your diff. Ricciardo is the car behind you. Ricciardo is on soft tyres. Vettel is on super-soft. HPP two to one. And we need to be saving fuel where we can.
+,,
+14,From Daniel Ricciardo,Has anyone ran a the soft yet?
+14,To Daniel Ricciardo,"Hamilton has also fitted softs. Cool your brakes, please."
+,,
+14,To Lewis Hamilton,Vettel in P1 then Valtteri in P2. Ricciardo the car ahead and then you. Ricciardo on the soft tyre as are you. Two lead cars on the super-soft.
+,,
+14,To Daniel Ricciardo,OK mate you did a very good job on that last set of tyres.
+,,
+14,From Daniel Ricciardo,"Yep, how was Vettel’s once he put new, was he much quicker."
+14,To Daniel Ricciardo,"Yes, three seconds quicker. Obviously the pace at the front was nowhere, but Vettel did a 34.6, so two-and-a-half seconds quicker, when he fitted a new set."
+,,
+15,To Daniel Ricciardo,"OK so race order is on Vettel, he’s on three-lap-old super-softs, then Bottas also on new super-softs, the we are P3. Behind you you have Hamilton on soft, Massa on soft, Raikkonen is on scrubbed super-soft, because he didn’t have any new ones left, then Hulkenberg is P7 on softs. Ericsson is now up to eighth, he’s on the old softs he started the race on so he’s likely to be a bit of a roadblock for people behind."
+,,
+15,To Valtteri Bottas,Just confirm if all the cars that were on the track causing the Safety Car are gone now?
+,,
+15,From Valtteri Bottas,It was on the limit. It will be either this lap or next I think.
+15,To Valtteri Bottas,OK.
+,,
+15,To Valtteri Bottas,And chassis default one six set on please. Vettel’s tyres are three laps older and he has been pushing them hard.
+,,
+15,To Felipe Massa,Felipe as you can see we’re currently P5. P1 and P2 are on the qualifying tyre. Hamilton and Ricciardo currently under investigation.
+,,
+15,From Felipe Massa,OK.
+16,To Valtteri Bottas,"Just remember for the restart you can use strat five, but strat three will give you the most potent overtake, OK? It’s probably going to be this lap, all the cars have backed onto the Safety Car."
+,,
+16,To Daniel Ricciardo,"For info the pit entry against you and Hamilton is being investigated becaus ehe got in the way and slowed you down in the pit entry. Looked like Hamilton slowed down in the pit lane in front of you, can you confirm that?"
+,,
+16,To Daniel Ricciardo,OK mate understood. We can see what he tried to do.
+,,
+16,To Kimi Raikkonen,"So the track is clear so it may not be long, Kimi."
+,,
+16,To Valtteri Bottas,"So Vettel obviously controlling the pace now. And Safety Car line one where you can overtake is by the pit entry. So Vettel will slow the car down so that the Safety Car can get a gap. He will just suddenly go as well, yep."
+,,
+17,To Sebastian Vettel,"No DRS for Bottas, no DRS. 1.2 seconds behind."
+,,
+17,To Daniel Ricciardo,OK mate so let’s keep it together. These tyres will come good.
+,,
+18,To Sebastian Vettel,"Have you set to mode to push? Move it, and then back to push, please. OK now it’s fine. Bottas one second behind."
+,,
+18,To Sebastian Vettel,"We don’t need those back-offs, you can push."
+,,
+18,From Sebastian Vettel,Give me an update on the wind.
+18,To Sebastian Vettel,Stand by.
+,,
+18,To Sebastian Vettel,Tailwind turn 11. 15kph. And Bottas 1.5 behind.
+,,
+19,To Kimi Raikkonen,DRS enabled.
+,,
+19,From Romain Grosjean,Guys I’m losing on every straight line.
+19,To Romain Grosjean,"We’re checking, we’re checking. The MGU-K is there, not sure why you’re slow."
+,,
+19,To Romain Grosjean,Mode attack defend. DRS enabled.
+,,
+20,To Nico Hulkenberg,OK Nico you really need to start looking after the rears now.
+,,
+20,From Nico Hulkenberg,Well I am already a lot.
+20,To Nico Hulkenberg,Understood. They’re still creeping up.
+,,
+20,From Nico Hulkenberg,Yeah there’s just not much grip to be honest.
+20,To Nico Hulkenberg,Understood.
+,,
+20,To Daniel Ricciardo,OK so Vettel is now in the lead on his super-softs. He’s pulling away from Bottas. Hamilton is on Bottas’s tail ahead.
+,,
+20,From Lewis Hamilton,Need to pick up the pace. Can’t let the Ferrari go away.
+20,To Lewis Hamilton,"OK copy, copy."
+,,
+20,To Valtteri Bottas,So Valtteri it’s important you stay with Vettel. Lewis is in strat six behind on the soft tyre so you need to keep with Vettel.
+,,
+20,From Valtteri Bottas,Copy.
+20,To Valtteri Bottas,"So Valtteri we need you to be within a second of Vettel, you need to be in DRS, and you’ll get a maximum of two laps to achieve that, OK."
+,,
+21,To Valtteri Bottas,So please let Lewis go.
+,,
+21,From Valtteri Bottas,Can you confirm? I just pulled the gap to him in the last lap.
+21,To Sebastian Vettel,"They are swapping driver position, Hamilton and Bottas."
+,,
+21,To Lewis Hamilton,OK Lewis so close up to Valtteri. He’s been given the message.
+,,
+21,From Lewis Hamilton,"If he’s picked up his pace, he should be OK. If I can’t catch him, if I get past, I can’t catch up a little bit."
+21,To Lewis Hamilton,Just let us know what tag we’re in.
+,,
+21,From Lewis Hamilton,Tag two.
+21,To Valtteri Bottas,And stay where you are.
+,,
+21,From Valtteri Bottas,Copy.
+22,To Valtteri Bottas,So just focussing on getting that gap to Vettel down. Surface overheating is minor at the moment. But pressure’s so much better than the first stint.
+,,
+22,To Kimi Raikkonen,And engine five. We’ll get engine one again later.
+,,
+22,From Valtteri Bottas,So we want you to use the tyres to close the gap to Vettel. Target lap is minus one.
+23,To Pascal Wehrlein,"We need more lift-off for braking, it’s critical."
+,,
+23,To Daniil Kvyat,What do you think about Palmer? Do we havce any chance?
+,,
+23,From Daniil Kvyat,Yeah we have a chance.
+23,To Daniil Kvyat,"OK Palmer’s got the DRS of Alonso, it might be difficult."
+,,
+23,From Daniil Kvyat,"At the moment, yeah. With him in DRS it’s going to be hard."
+23,To Sebastian Vettel,"Brake shape zero, suggestion for locking, seems under control. Bottas is 2.8 behind, should try to open this gap. Keep your head down, you are doing well."
+,,
+24,To Daniel Ricciardo,How are the tyres now Daniel?
+,,
+24,From Daniel Ricciardo,Haven’t got worse but haven’t got better. Just really struggling with the rear.
+24,To Daniel Ricciardo,OK understood. Everything stable on temperatures for now.
+,,
+24,To Valtteri Bottas,"Valtteri we need those lap times back down again now, we need to be targeting zero."
+,,
+24,From Valtteri Bottas,OK copy.
+24,To Kimi Raikkonen,"Fantastic work, Kimi, let’s get on with it now. And back to engine five, Kimi."
+,,
+25,To Lewis Hamilton,"Confirm tag, Lewis."
+,,
+25,From Lewis Hamilton,Still tag two but I don’t want to ruin my tyres.
+25,To Lewis Hamilton,"OK copy. So Raikkonen is the car behind, 7.4 seconds. Vettel 35.2."
+,,
+25,To Romain Grosjean,"Fuel wasting OK, we can go fuel wasting, keep fuel wasting."
+,,
+25,To Fernando Alonso,"How the hell they can overtake me, 300 metres behind me at the beginning of the straight. I never raced with less power in my life."
+,,
+26,From Lewis Hamilton,For the soft tyre is this pace good?
+26,To Lewis Hamilton,"Stand by, we’ll let you know."
+,,
+26,To Lewis Hamilton,"And we think we should be faster. There’s debris turn one, yellow turn one, look out for debris."
+,,
+26,To Lewis Hamilton,"So just to confirm Lewis we think we should be faster on this tyre, we’re just reviewing the situation."
+,,
+26,To Daniel Ricciardo,OK Hamilton on his softs is doing 35.6
+,,
+26,To Pascal Wehrlein,"Very good job on the lift-off now, keep it like this."
+,,
+27,To Valtteri Bottas,And please let Lewis through.
+,,
+27,To Valtteri Bottas,Lewis does have a five-second penalty.
+,,
+27,From Valtteri Bottas,Copy. I’ll let him through.
+27,To Valtteri Bottas,"So it’s important you stay close to Lewis, obviously."
+,,
+27,From Valtteri Bottas,These rears are overheating. For sure the soft is going to be better.
+27,To Valtteri Bottas,"Yeah, copy that."
+,,
+28,To Kimi Raikkonen,"So Merc have swapped the cars, Bottas is now the car in front, he’s not particularly quick."
+,,
+28,To Lewis Hamilton,"Let’s go strat three, let’s close thatgap. Vettel 35.3, that’s a good lap time. See if you can close up."
+,,
+28,To Daniel Ricciardo,OK mate keep plugging away. Mode seven will fill up the battery quicker.
+,,
+29,To Sebastian Vettel,Pull the red button. And keep your head down. This is an important phase of the race. Stay focused. Hamilton six behind.
+,,
+29,To Valtteri Bottas,"So it’s not going to be long, just looking for the window. Keep the pressure up."
+,,
+29,To Daniel Ricciardo,"Raikkonen can only do 36.0s on super-softs, I think you’re quicker than that."
+,,
+30,From Kimi Raikkonen,"I have a little bit too much front wing in 12 but I’m in the window. And I’m struggling in two also. The rest is not too bad, little bit in the mid-corner."
+30,To Kimi Raikkonen,"Understood Kimi. Just be aware Ricciardo has overtaken Massa, he’s the car behind. He’s six seconds at the minute. I’ll update you on his pace."
+,,
+30,From Daniil Kvyat,"Light, rear left, OK?"
+30,To Daniil Kvyat,"We check, we check."
+,,
+31,To Valtteri Bottas,"Box, going to soft tyres, going to be tight on exit, need a good pit stop."
+,,
+31,To Sebastian Vettel,Mercedes in the pit with Bottas. Bottas on option [soft] tyres.
+,,
+31,To Valtteri Bottas,Pushing three out of three to get ahead of the cars in front of you. They are all on older tyres.
+,,
+31,To Lewis Hamilton,"So Valtteri has now stopped, he’s taken soft, going to the end. Raikkonen is the car behind, eleven seconds."
+,,
+32,To Daniel Ricciardo,How Daniel how are the balance and tyres in free air?
+,,
+32,From Daniel Ricciardo,It’s stabilised a bit but not getting better.
+32,To Daniel Ricciardo,Understood.
+,,
+32,From Daniel Ricciardo,Rear’s still nervous and I’ve got to watch the front.
+32,To Daniel Ricciardo,When you get close to a car do you lose front or rear?
+,,
+32,From Daniel Ricciardo,"Rear, lose more rear."
+32,To Daniel Ricciardo,"OK, understood."
+,,
+33,From Sebastian Vettel,OK I’m starting to struggle a bit with the tyres.
+33,From Kimi Raikkonen,"Check what happened into turn four, low speed, there’s something wrong"
+33,To Kimi Raikkonen,"We see the issue Kimi, I’ll come back with any action"
+,,
+33,From Kimi Raikkonen,Come on it’s really disturbing. Is 2.2 the normal position?
+33,To Kimi Raikkonen,"Confirm but this is not the issue, this is not the issue. Driver default A five on should fix the issue."
+,,
+33,From Kimi Raikkonen,Something [unclear] lap time on the straight. The issue is still there.
+33,To Kimi Raikkonen,"Understood Kimi, understood, we’re checking what’s going on."
+,,
+33,From Lewis Hamilton,So far this is a better tyre but I need to get by… difference. Monitor Valtteri.
+33,To Lewis Hamilton,OK copy. Vettel 35.5
+,,
+34,To Sebastian Vettel,"And box Sebastian, box."
+,,
+34,To Lewis Hamilton,"They’ve hit the pits, Lewis, this is our opportunity."
+,,
+34,To Lewis Hamilton,"So Lewis we’re going to continue pushing this long, make sure we’ve got a nice big offset."
+,,
+34,To Pascal Wehrlein,On the main straight you can use overtake button.
+,,
+34,To Valtteri Bottas,"So pushing two out of three. Ricciardo car ahead, he has not stopped yet, 20-lap-old soft tyres."
+,,
+35,To Valtteri Bottas,Vettel has stopped and he is six seconds ahead.
+,,
+35,To Sebastian Vettel,We need to look after these tyres until the end. Hamilton will go long and then come back at the end.
+,,
+35,From Lewis Hamilton,Tyres have definitely taken a step.
+35,To Lewis Hamilton,Roger.
+,,
+36,To Kimi Raikkonen,So Kimi we can’t hold Seb up but we do need to stay out as long as possible.
+,,
+36,From Kimi Raikkonen,Why do we need to stay out? Cause the tyres are…
+36,To Kimi Raikkonen,We need to match Ricciardo behind.
+,,
+36,From Kimi Raikkonen,But is he catching me behind?
+36,To Kimi Raikkonen,He wasn’t before we swapped.
+,,
+37,From Fernando Alonso,"[Censored by FOM] he was, what, 300 metres behind us on the straight?"
+37,To Fernando Alonso,"Fernando we are considering plan B, how are the tyres?"
+,,
+37,From Fernando Alonso,"Do whatever you want, man."
+37,From Kimi Raikkonen,Is there nothing that I can do with the issue? And I am struggling with the tyres so stop me sooner than just waiting what the others are doing otherwise they will catch me.
+37,To Kimi Raikkonen,"Understood Kimi, I’m watching him. And for the issue I’m afraid not. But I’m on the tyres."
+,,
+37,To Fernando Alonso,"And box this lap, box now, stay right of line, limiter. Launch map. Ericsson at the start/finish line now. And 100% pace."
+,,
+38,To Lewis Hamilton,"So Raikkonen on 24-lap-old super-softs and that’s a 36.9, he’s just pitted."
+,,
+38,From Kimi Raikkonen,I cannot get the gear in.
+38,To Kimi Raikkonen,"Understood, Kimi. And SOC [state of charge] five, Kimi."
+,,
+38,To Pascal Wehrlein,"We are racing a group ahead of three cars, all on softs, similar age."
+,,
+39,To Daniel Ricciardo,OK Daniel so Raikkonen has just pitted he’s now on the soft tyres. We’re going to go a little bit longer to get a bigger advantage.
+,,
+39,From Daniel Ricciardo,"Understood. The rear’s pretty stable for now, just got to watch the front. The rear’s still the bigger lap time lost.#"
+39,To Daniel Ricciardo,"OK, understood."
+,,
+39,From Lewis Hamilton,This tyre feels good but I’m thinking a Safety Car or something?
+39,To Lewis Hamilton,"Yeah copy that Lewis, we’re thinking something similar."
+,,
+39,To Valtteri Bottas,So it’s important to close the gap to Vettel. Lewis has a five-second penalty but is still yet to stop.
+,,
+40,From Lewis Hamilton,What’s the gap behind?
+40,To Lewis Hamilton,Gap behind 11.5 seconds to Vettel. He’s 34.3 last lap.
+,,
+40,To Daniel Ricciardo,"Box Daniel, box this lap."
+,,
+40,To Esteban Ocon,"You’re in P12, you need to get past two cars for a point."
+,,
+40,To Daniel Ricciardo,OK you’ll be close to Massa at pit exit. Diff six. Try the brakes before turn one. You’ll be close to Massa at turn one. Think about the overtake.
+,,
+41,To Lewis Hamilton,OK Lewis so we have a five-second penalty for driving slow on the pit entry in the last stop. We’re going to serve it at the pit stop. We’re going to offset ourselves as much as we can. We can take the same tyre and see what we can do. We will need to overtake Valtteri on-track.
+,,
+41,From Lewis Hamilton,Sorry guys.
+41,To Lewis Hamilton,"Don’t worry Lewis, keep your head down mate, just get on with it."
+,,
+41,To Lewis Hamilton,"Box box, we’ll be serving this penalty, just remember keep the brake pressure on."
+,,
+42,To Sebastian Vettel,Hamilton boxed this lap.
+,,
+42,To Lewis Hamilton,You have 16 laps remaining.
+,,
+42,From Lewis Hamilton,Why did we go for this tyre?
+42,To Lewis Hamilton,"It’s all based on data, Lewis, we think this is the better tyre. Go strat mode three."
+,,
+43,From Lewis Hamilton,How much is Vettel ahead?
+43,To Lewis Hamilton,You’ve got 15 laps remaiing. You did 28 on the last tyre.
+,,
+44,From Esteban Ocon,[Unclear] to catch the other car as well?
+44,To Esteban Ocon,"That’s it, that’s all there is, Hulkenberg."
+,,
+45,To Pascal Wehrlein,Alonso behind is lapping 36.0.
+,,
+45,To Marcus Ericsson,"OK Marcus maximum push, keep attacking him."
+,,
+46,To Daniel Ricciardo,"Vettel, Bottas still doing 34.5s at the front. Hamilton stopped later than us on soft tyres and he’s catching them quickly."
+,,
+46,To Sebastian Vettel,"12 to go, Hamilton is closing on Bottas with used option [soft]. Hamilton is 15 seconds behind you. Bottas in 10.8 seconds behind."
+,,
+47,To Lewis Hamilton,Gap to Vettel now down to 14.7
+,,
+47,To Lewis Hamilton,"Vettel 34.1. You’ve got the pace to win this Lewis, come on mate."
+,,
+47,To Valtteri Bottas,"And don’t hold Lewis up. He is two seconds a lap quicker, pushing for the win"
+,,
+47,To Valtteri Bottas,And please let Lewis go.
+,,
+48,To Lewis Hamilton,So Vettel 13 seconds ahead. Ten laps remaining.
+,,
+48,To Sebastian Vettel,"Ten laps to go, Hamilton is now behind you, 13 seconds."
+,,
+48,To Lewis Hamilton,"Vettel’s coming up to backmarker traffic Lewis, it’s still all to play for, come on mate."
+,,
+49,To Valtteri Bottas,So just remember try and stay as close as you can to Lewis.
+,,
+49,From Valtteri Bottas,"The rear end is just all over the place, I don’t know what is the problem."
+49,To Sebastian Vettel,"Hamilton lap time 3.5, one seconds faster, 12 seconds behind."
+,,
+49,To Kimi Raikkonen,"Just 1.2 seconds quicker than lap, Kimi, it’s all there."
+,,
+49,From Kimi Raikkonen,I don’t know what you said.
+49,To Kimi Raikkonen,So 1.1 seconds quicker than him last lap.
+,,
+50,To Lewis Hamilton,Am I on the right trajectory?
+,,
+50,From Lewis Hamilton,"Affirm Lewis, on the right trajectory, it’s all going to happen at the end. Just keep it up, mate."
+50,To Daniel Ricciardo,"Eight laps to go, Raikkonen ahead still doing around 34.0s. Massa behind mid-35s. Vettel at the front still in 34.5s on his softs."
+,,
+50,To Sebastian Vettel,"Can use DRS. Kvyat next car in front, blue flag. Seven seconds, a bit of fresh air."
+,,
+51,To Sebastian Vettel,And push the ‘ovi’ button.
+,,
+51,From Lewis Hamilton,Has Vettel passed these cars?
+51,To Lewis Hamilton,"He’s passed two, he’s got another three ahead. It’s Palmer and Ericsson coming up. Vettel 34.2."
+,,
+51,From Lewis Hamilton,Gap?
+51,To Lewis Hamilton,Gap now under nine seconds. Four cars…
+,,
+51,From Lewis Hamilton,How many laps?
+51,To Lewis Hamilton,You’ve got seven laps remaining.
+,,
+52,From Lewis Hamilton,Tyres are starting to drop.
+52,To Sebastian Vettel,"Very good lap, Sebastian. Holding there."
+,,
+52,To Sebastian Vettel,Hamilton saying his tyres are starting to drop. His lap times 33.3. It’s looking good.
+,,
+52,From Marcus Ericsson,Gearbox broken.
+52,To Marcus Ericsson,What’s going on?
+,,
+52,From Marcus Ericsson,Gearbox broken.
+52,From Marcus Ericsson,"We cannot restart it, no?"
+52,To Marcus Ericsson,Stand by. Stop the car. Switch off procedure. Can you hear me?
+,,
+52,From Marcus Ericsson,Yeah.
+52,To Marcus Ericsson,OK.
+,,
+52,From Marcus Ericsson,OK I abort.
+52,To Marcus Ericsson,Yeah jump out.
+,,
+53,To Sebastian Vettel,Safety Car window is closed.
+,,
+53,To Sebastian Vettel,"Hamilton is catching Palmer now, blue flags to Palmer. We are three cars infront. Kvyat blue flag soon. Double yellow turn four. Watch out. Marshal on the left. Be careful."
+,,
+53,To Valtteri Bottas,OK so we’ve got a chance to save the engine if you want. So Raikkonen is seven-and-a-half seconds behind on younger soft tyres. You can go strat nine if you want and manage the gap. Kimi at the moment is a second a lap quicker. Yellow turn four.
+,,
+53,From Lewis Hamilton,Are we still on target to close or not?
+53,To Lewis Hamilton,"It’s very close at the moment, Lewis, we just want to see. Vettel’s got three cars with traffic. Just want to see if he’ll lose time there."
+,,
+54,To Pascal Wehrlein,So Vettel overtook Alonso. You will get blue flags now. Vettel race leader.
+,,
+54,To Pascal Wehrlein,Good job on the blue flags. Now push to the end. Three laps to go.
+,,
+54,From Lewis Hamilton,How many laps?
+54,To Lewis Hamilton,"Four laps remaining, four laps."
+,,
+54,To Lewis Hamilton,"OK Lewis Vetel cleared that traffic quite efficiently so let’s go back to strat six. We’ll just see if there’s opportunities at the end, just keep the pace up."
+,,
+54,From Lewis Hamilton,"It’s too big a gap, right?"
+54,To Lewis Hamilton,"Yeah feels like it, Lewis. Let’s just see if anything happens. Strat six and go HPP eight to one."
+,,
+55,From Fernando Alonso,"Engine, engine problem. Engine problem. Box now. Engine. Problem."
+55,To Fernando Alonso,OK Fernando box this lap to retire the car. Try to cool the car. Raikkonen is plus three.
+,,
+56,To Sebastian Vettel,"Engine nine, Sebastian. Hamilton 6.9 behind."
+,,
+57,To Romain Grosjean,"One lap to go, one lap."
+,,
+57,From Lewis Hamilton,Gap behind?
+57,To Lewis Hamilton,You’ve got five seconds to Wehrlein who’s traffic. Plenty of space behind for Valtteri.
+,,
+VL,To Valtteri Bottas,"Great job. Sorry about that, didn’t have the car underneath us to be able to make the most of it. Especially with the pressures in that first stint. HPP eight to thirteen please."
+,,
+VL,To Daniel Ricciardo,"OK so finishing order was Vettel, he won by six seconds over Hamilton, Bottas was third, 14 seconds behind Hamilton. Raikkonen finished just behind Bottas, two seconds behind him, and he was 16 seconds ahead of us, we were in P5. Behind you you had Massa, Perez, Grosjean was eight, Hulkenberg ninth and Ocon tenth."
+,,
+VL,From Daniel Ricciardo,"OK, understood."
+VL,To Daniel Ricciardo,Good effort Daniel. We just seemed to lose out a huge amount in the middle stint there. First stint was looking alright and it got away from us in the second stint so need to understand that. Well done.
+,,
+VL,To Sebastian Vettel,P1 Sebastian. What a race. You were the quickest.
+,,
+VL,From Sebastian Vettel,Woohoo! Yes guys! Yes yes yes. That’s what I’m talking about.
+VL,To Sebastian Vettel,"Mode slow and cool the brakes, hot in brakes."
+,,
+VL,To Lewis Hamilton,"Well done Lewis mate P2. Tough day in the office but great drive, really strong last part. HPP eight to thirteen. Strat mode 12. And start 13 now."
+,,
+VL,From Lewis Hamilton,Lost power.
+VL,To Lewis Hamilton,Yep just hit the bottom of the pack. That’s no problem.
+,,
+VL,To Kimi Raikkonen,"Good job Kimi. Your pace today deserved you a much better result than you got. Lap mode Safety Car In, Kimi."
+,,
+VL,To Felipe Massa,"Well done mate that was a good drive, thank you, a lot of points for the team."
+,,
+VL,From Felipe Massa,Thank you very much.
+VL,To Pascal Wehrlein,"Good job Pascal. Great race, P11 at the end. Unfortuantely we missed the points but good race. We need Safety Car fuel-save. And slow in for brakes, pick up rubber."
+,,
+VL,From Pascal Wehrlein,Good job.
+VL,To Pascal Wehrlein,"Yeah good fight at the end, Pascal, great job. Vettel won, Hamilton second, Bottas third, Raikkonen then Ricciardo, Massa, Perez, Grosjean, Hulkenberg and Ocon P10."
+,,
+VL,To Romain Grosjean,"Chequered flag Romain. P8, back in the points."
+,,
+VL,From Romain Grosjean,"Good job everyone, it’s good to be back in the points. Shame about the Safety Car, wrong timing, but I think Perez was a bit faster in the end. Good job everyone."
+VL,To Romain Grosjean,"Good drive, nice overtaking."
+,,
+VL,To Jolyon Palmer,"OK Jo tough race today. Finishing order Vettel, Hamilton, Bottas, Raikkonen, Ricciardo, Massa, Perez, Grosjean, Nico, Esteban, Wehrlein, Kvyat, yourself. Don’t forget to go to P0 in parc ferme please."
+,,
+VL,From Jolyon Palmer,"Yep, will do."
+VL,From Sebastian Vettel,"Grazie ragazzi! Buon compleanno, Andrea!"

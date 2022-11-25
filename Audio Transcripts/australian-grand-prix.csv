@@ -1,0 +1,257 @@
+﻿Lap*,Driver,Message
+PR,To Felipe Massa,Track temperature is now 39 degrees. We’ve not run these tyres in this sort of temperatures before but my feeling is the rear is always going to be the weakening side. Maybe another half degree?
+,,
+PR,From Felipe Massa,"I think so, yeah, take away a half-degree."
+PR,To Valtteri Bottas,Wind direction is the same. The track temperature is starting to drop.
+,,
+PR,To Fernando Alonso,"The following are on starting on prime: Ericsson and Stroll. The following are on back-up: It’s the Sauber [Giovinazzi], Magnussen and Palmer."
+,,
+PR,To Nico Hulkenberg,Nobody told me that the gears are not synced any more.
+,,
+PR,To Antonio Giovinazzi,The car is moving again in first gear.
+,,
+PR,From Lewis Hamilton,Grip feels poor on the grid.
+1,To Kevin Magnussen,"Do you have damage? Oh, you have a puncture."
+,,
+3,From Stoffel Vandoorne,My dash is not working.
+3,To Stoffel Vandoorne,"Understood Stoffel. Currently you’re doing well. Stoffel do you mean you have no display at all, or just fuel?"
+,,
+3,From Stoffel Vandoorne,It’s stuck on the out-lap dash.
+4,To Daniil Kvyat,"DRS should be enabled, try again."
+,,
+4,From Daniil Kvyat,"No, doesn’t work for me."
+4,From Lewis Hamilton,Struggling for grip.
+4,To Lewis Hamilton,"OK, copy."
+,,
+5,From Marcus Ericsson,Something is not right in the rear.
+5,To Marcus Ericsson,Yes Marcus we can see some loss of downforce in the rear.
+,,
+7,To Stoffel Vandoorne,"Car behind is now Ricciardo. Don’t get tangled up with Ricciardo, he’s a lapped car."
+,,
+7,From Nico Hulkenberg,Grip is super-poor both front and rear axle. Just struggling for grip at the moment.
+7,To Max Verstappen,OK Max so we’ll have a balance update and a tyre phase rotary update when you can please.
+,,
+7,From Max Verstappen,"All good, a bit of oversteer, a bit of understeer but it’s just because I’m close to Kimi."
+7,To Daniel Riccairdo,"Alright Daniel, get stuck in, have fun."
+,,
+8,From Stoffel Vandoorne,I’m low on power.
+8,To Stoffel Vandoorne,"Copy, we’re investigating."
+,,
+8,From Stoffel Vandoorne,No power.
+8,To Stoffel Vandoorne,"Copy Stoffel, stay out."
+,,
+9,From Lewis Hamilton,28.0 is not possible
+9,To Lewis Hamilton,"OK copy Lewis, just need to keep building that gap."
+,,
+9,To Daniil Kvyat,Tyres are stabilising and track temperature is starting to drop.
+,,
+9,To Lewis Hamilton,"OK Lewis you’re doing a great job now, just keep it up."
+,,
+9,From Valtteri Bottas,Tyres are holding on well.
+9,To Lewis Hamilton,"1.6, the gap’s at 1.6."
+,,
+10,To Sebastian Vettel,"You can push. Very good lap, Sebastian, keep pushing like this, you are doing well."
+,,
+10,To Valtteri Bottas,Need to carry more speed turn 14 and turn one late entry.
+,,
+10,From Daniil Kvyat,"Overheating, at the moment I feel quite a bit of overheating."
+10,To Daniil Kvyat,"Copy, I’ll keep you posted."
+,,
+10,To Stoffel Vandoorne,Vandoorne pitted to reset his car.
+,,OK Stoffel apply the brakes during the stop. You need to do the power cycle. Don’t try and restart the engine as normal.
+11,From Lewis Hamilton,Tyres are overheating.
+12,From Stoffel Vandoorne,The pack is not doing anything. The pack is just empty.
+13,From Jolyon Palmer,"Problem, problem."
+13,To,"OK, understood, talk to us."
+,,
+13,To,"No, anchored on the brakes."
+,,
+13,To Jolyon Palmer,"Anchored on the brakes, understood. Can you move at all?"
+,,
+13,From Jolyon Palmer,"Yep, I’m moving."
+13,To Jolyon Palmer,"You’re moving. OK, carry on, we’ll see what it is and get back to you."
+,,
+14,To Valtteri Bottas,That’s good pace there.
+,,
+15,From Jolyon Palmer,Ah same problem!
+15,To Jolyon Palmer,"Understood Jo, we’ll get back to you, understood."
+,,
+17,From Felipe Massa,"I’m losing time behind this guy, so it’s a little bit different to last year. I’m very close to him, guys, sorry. How close do I need to be, one second?"
+17,To Felipe Massa,Yep we need one second.
+,,
+17,From Felipe Massa,Unbelievable. For sure I am one second.
+17,To Felipe Massa,"Yep we think that’s one second now. OK he’s getting proper blue flags now, he has blues."
+,,
+18,From Jolyon Palmer,"Aaargh, same again."
+18,To Jolyon Palmer,OK Jo we’re going to retire you this lap. Sorry about that. But you did a good job out there today. We’re going to retire you this lap.
+,,
+18,To Lewis Hamilton,"Lewis we’re going to need to get this gap, it’s critical. Gap 1.7."
+,,
+18,From Lewis Hamilton,There’s nothing left.
+18,From Romain Grosjean,I lost the power.
+18,To Romain Grosjean,"Lost power, OK, understood."
+,,
+18,From Romain Grosjean,What’s going on? What do we do?
+18,To Romain Grosjean,"Box, box. I think we’re done Romain you have to switch it off, sorry mate."
+,,
+20,To Sebastian Vettel,Tyres look very healthy. Keep pushing like this. You are doing very well. Keep your head down.
+,,
+22,From Lewis Hamilton,"Still a lot of understeer, is the floor OK?"
+22,To Lewis Hamilton,"Everything OK on the aero data, Lewis."
+,,
+22,From Lewis Hamilton,Let me know where I stand so I can look after tyres if needed.
+22,To Lewis Hamilton,"This is race-critical, you need to get past Verstappen."
+,,
+22,From Lewis Hamilton,"Repeat, repeat, you’re quiet."
+22,To Lewis Hamilton,"You are still safe to Vettel, we need to get past Verstappen."
+,,
+22,From Lewis Hamilton,I don’t know how you expect me to do that right now.
+23,To Kimi Raikkonen,"Hamilton currently stuck behind Verstappen behind, this is good for our race as well, Kimi."
+,,
+23,From Marcus Ericsson,"Hydraulic failure, red light."
+23,To Marcus Ericsson,OK I’ll come back to you.
+,,
+23,From Marcus Ericsson,I cannot shift. I’m losing steering assistance.
+23,From Lewis Hamilton,There’s no way I can get past this guy.
+23,To Lewis Hamilton,"OK copy that Lewis, just keep the pressure on."
+,,
+23,From Max Verstappen,I’m starting to struggle a little bit more with the rears.
+25,To Daniel Ricciardo,OK Daniel Ericsson has stopped between turn 12 and turn 13. Remember we are in the Safety Car window. For your reference Daniel a lot of the leaders have swapped onto the soft tyre at their first stop.
+,,
+25,From Lewis Hamilton,"There’s nothing left in these tyres, guys, they’re already sliding."
+25,To Max Verstappen,OK Max let’s push and box.
+,,
+27,From Lewis Hamilton,"OK Lewis so we’re thinking B now, plan B."
+28,From Nico Hulkenberg,It’s unbelievable. [Censored by FOM] hell. This dirty air is incredible.
+31,To Daniel Ricciardo,"OK Daniel essential we’re turning down the engine a bit to try to save it, it’s a few tenths a lap, it’s not a disaster. The sad truth is that we’ll get points through Safety Car, not through pace today. Still worth hanging out because there are possibilities but let’s save the engine, not make our day any worse."
+,,
+31,From Daniel Ricciardo,Understood
+31,From Daniel Ricciardo,"OK, I guess we didn’t save it. I’ll go to P0. I’ll wait for your call, but…"
+31,To Daniel Ricciardo,"No P1, don’t go to P0 just yet mate. We can’t restart the car in P0. Just hang in there, we’ll check the data, we’ll let you know, OK."
+,,
+31,To Daniel Ricciardo,"OK Daniel, P0. Sorry mate. Car’s done. Don’t know what to tell you, mate."
+,,
+31,From Daniel Ricciardo,Let’s get the [censored by FOM] out of here.
+32,To Daniil Kvyat,"We are looking very good on the strategy, Danny, keep going."
+,,
+33,To Lewis Hamilton,"OK Lewis Vettel 28.1. Just let us know what you can do, we need to close that gap. Looking for high 27s."
+,,
+33,From Lewis Hamilton,Is fuel OK?
+33,To Lewis Hamilton,"Yeah, Fuel is good."
+,,
+33,To Sebastian Vettel,"Still a long way to go, keep your head down."
+,,
+36,To Lewis Hamilton,Tyres look like they’re holding up so I don’t think people are going to struggle at the end. May have to stretch it out. Sticking on Plan A.
+,,
+38,To Sergio Perez,Tyre is good. We can push on the tyre.
+,,
+38,From Sergio Perez,"Yeah but don’t get too excited, man. There might be Safety Cars or something, no?"
+39,To Kimi Raikkonen,"It’s not over yet, Kimi. Hamilton is complaining he might not be able to make these tyres last until the end. At the minute if Hamilton had to stop he would come out behind Verstappen."
+,,
+41,From Lewis Hamilton,"The timing of this message is curious given Hamilton’s lap 36 message. Perhaps this message was delayed, or Ferrari had overlooked Hamilton’s ‘Plan A’ message, or they had heard something which was not broadcast, or they were trying to keep Raikkonen motivated by being economical with the truth."
+,,How much longer are my tyres competitive?
+41,To Lewis Hamilton,"Eight laps older for Valtteri, six laps for Vettel."
+,,
+42,To Kimi Raikkonen,"Hamilton still complaining a lot about tyres, Kimi. Just keep…"
+,,
+42,From Kimi Raikkonen,"OK, OK."
+43,To Carlos Sainz Jnr,OK Carlos. Swap position now.
+,,
+43,From Carlos Sainz Jnr,It’s a little bit early.
+43,To Carlos Sainz Jnr,"Do it now, please. Vettel is coming behind and it will be a blue flag. I will explain later."
+,,
+43,From Carlos Sainz Jnr,"He will give me the position back if he doesn’t pass Perez, right?"
+43,To Carlos Sainz Jnr,"Yes, Carlos, yes."
+,,
+43,From Carlos Sainz Jnr,"OK, I let him by."
+43,To Carlos Sainz Jnr,"Now, please, yes."
+,,
+44,From Lance Stroll,I think I had brake failure. Yeah I think something broke. Tell me.
+44,To Lance Stroll,"OK. Box, box."
+,,
+44,From Lance Stroll,"Argh, I missed it, sorry, I didn’t know. Sorry."
+44,To Lance Stroll,OK just take it easy.
+,,
+44,From Lance Stroll,Think I got a [unclear] failure.
+44,To Lance Stroll,"OK copy. So we’re going to push you back into the garage, Lance."
+,,
+44,From Lance Stroll,Shame.
+45,From Lewis Hamilton,Power dropping in and out.
+45,To Lewis Hamilton,OK copy we’ll get a look at it.
+,,
+47,To Max Verstappen,"So Max just be sensible. You saw how difficult it was, Lewis was unable to pass you on fresh tyres. So make sure you’ve got good grip to the end of the race. Obviously if the opportunity presents itself don’t be shy."
+,,
+48,From Valtteri Bottas,"Tyres will be OK to the end, no problem."
+48,To Valtteri Bottas,Copy that.
+,,
+48,From Valtteri Bottas,I feel like I have a little bit more pace but struggling to get closer.
+48,To Valtteri Bottas,Copy that.
+,,
+51,To Daniil Kvyat,"OK Dany we will have to box soon, we have a problem with the engine air. Don’t worry we still have…"
+,,
+51,From Daniil Kvyat,"No, let’s stay out guys."
+51,To Daniil Kvyat,"Box Danny, we can still stay in front of Alonso. You cannot stay out. Box, box."
+,,
+51,From Daniil Kvyat,Is there anything I can do? I can drive slower.
+51,To Daniil Kvyat,"No, engine air refill. We will go to ultra. Box, box."
+,,
+52,From Kevin Magnussen,Suspension failure. Do you want me to bring it home or stop the car?
+52,To Kevin Magnussen,Stop the car where you are.
+,,
+53,From Fernando Alonso,"[Censored by FOM] there is something wrong with the car. We lost something. It is pulling to the left. There is something on the suspension, maybe."
+53,To Fernando Alonso,"OK Fernando we need to retire. Box this lap, cool the car on the way back."
+,,
+54,To Carlos Sainz Jnr,OK Carlos four laps to go. I will leave you alone. Push like animal. We can reach Perez. Push like a mad animal.
+,,
+55,To Daniil Kvyat,"OK Danny just bring it to the flag, OK? Situation is very calm for us. Just bring it to the flag."
+,,
+55,From Daniil Kvyat,OK. Should I get the fastest lap or not?
+55,To Daniil Kvyat,"No, Vettel does."
+,,
+55,From Daniil Kvyat,"OK, how much off?"
+55,To Daniil Kvyat,"One-tenth. Danny, bring it to the flag, we have some points on the table, just bring it to the flag."
+,,
+55,From Daniil Kvyat,"Calm, OK."
+56,From Max Verstappen,How much faster is the fastest lap?
+56,To Max Verstappen,Too fast. Two laps remaining. We just want to bring it home.
+,,
+VL,To Sebastian Vettel,"P1 Sebastian. Awesome drive, that’s the way to do it."
+,,
+VL,To Sebastian Vettel,"Grande Sebastian, bravissimo."
+,,
+VL,From Sebastian Vettel,"Woohoo! Forza Ferrari, regazzai. Questa e per noi. Tutti noi. Grazie tutti. Grande lavoro. Grande macchina. Thank you everyone. Woo-hoo!"
+VL,To Lewis Hamilton,"OK Lewis, well done mate, sorry about that. P2 still, not a bad result, plenty to learn from this race. Good drive."
+,,
+VL,To Antonio Giovinazzi,"OK Antonio that was a very good race from your side, P12. Congratulations, very good race for your first Formula One race."
+,,
+VL,To Valtteri Bottas,So a good job Valtteri. P3. Good job.
+,,
+VL,From Valtteri Bottas,Thanks guys. The reds were definitely too quick.
+VL,To Max Verstappen,Well done. As expected. You did a really solid job.
+,,
+VL,From Max Verstappen,Yep it was not bad. Think the balance of the car was quite good.
+VL,To Max Verstappen,"Well done Max it was a very good drive. You were on the right tyre in the second stint. Good afternoon’s work, well done."
+,,
+VL,To Stoffel Vandoorne,"I think you drove really well. Well done Stoffel. I’m sorry about the problem we had with the car which was a shame. But I think your pace was good, it was a good job."
+,,
+VL,From Stoffel Vandoorne,Yeah thanks guys. Difficult weekend. I think we knew that before coming here. But I think it’s already an achievement to go to the finish. I think we didn’t expect this after Barcelona. Even though the pace wasn’t so good we made it to the end. Still a lot of work to do.
+VL,To Carlos Sainz Jnr,P8 Carlos.
+,,
+VL,From Carlos Sainz Jnr,"Yeah, thank you. A shame on Perez after the pit stop, couldn’t hold on to him because of the top speed. So that’s it."
+VL,To Carlos Sainz Jnr,Yep we saw that on the TV.
+,,
+VL,To Sergio Perez,"Great job Checo, well done, P7."
+,,
+VL,From Sergio Perez,"Good job, guys. Good start. We are obviously lacking a lot of pace at the moment. So let’s really focus and try to get those updates soon. But good job man I think we maximised the day. Well doen to everyone."
+VL,To Esteban Ocon,"Chequered flag, well done mate, that’s tenth place. A point."
+,,
+VL,From Esteban Ocon,"Awesome guys thank you. Good strategy, very good. Such a shame with Alonso in front, he blocked me all race. But first points of a lot of them."
+VL,To Daniil Kvyat,OK Danny sorry for that. P7 was clearly on the table for us.
+,,
+VL,From Daniil Kvyat,Cheers guys. Did a good job. But this engine fuss cost us more points. It’s not cool.
+VL,To Daniil Kvyat,"Yeah, hard luck, no worries. You’ve done very well mate. Very good weekend. Very strong."
+,,
+VL,From Daniil Kvyat,Thank you sunshine!
+VL,To Daniil Kvyat,"No, please!"
+,,
+VL,To Nico Hulkenberg,"Tough race, mate. Well done for hanging in there."

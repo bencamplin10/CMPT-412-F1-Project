@@ -1,0 +1,344 @@
+Lap*,Driver,Message
+PR,To Esteban Ocon,"Wehrlein, Ericsson and Vandoorne starting on super-softs, everybody else ultra-softs."
+,,
+FL,To Fernando Alonso,Try three times please Fernando.
+,,
+FL,From Fernando Alonso,I tried already so try yourself.
+FL,To Fernando Alonso,"Don’t touch the buttons, we’ll fire it up."
+,,
+FL,From Fernando Alonso,I have no State Of Charge.
+FL,To Fernando Alonso,Default zero five again please
+,,
+FL,From Fernando Alonso,And nothing.
+FL,To Dannil Kvyat,OK Danny for info Alonso stopped in the pit entry.
+,,
+FL,To Max Verstappen,"OK it’s a Case A restart. New formation lap, pit limiter on, race distance reduced by one lap."
+,,
+FL,To Stoffel Vandoorne,"OK Stoffel, Fernando had a car problem, he won’t start the race."
+,,
+FL,From Fernando Alonso,"OK, tell me what to do, if we’re retiring the car?"
+FL,To Fernando Alonso,Please do a rolling power cycle.
+,,
+FL,From Fernando Alonso,How I can do it?
+FL,To Fernando Alonso,"Right hand side to the left, then to the right, then left-hand side off, then back on again. If you can pit, pit please."
+,,
+2,From Romain Grosjean,OK so basically Palmer turned into me. I don’t know why he wasn’t looking.
+2,To Romain Grosjean,OK understood.
+,,
+2,From Jolyon Palmer,"Ah, [censored by FOM] sake I’m out."
+2,To Jolyon Palmer,OK. There’s no way you can get going again?
+,,
+2,From Lance Stroll,I got pushed on the kerb and I spun.
+2,To Lance Stroll,Stay as you are. Everything is fine.
+,,
+3,From Lewis Hamilton,Anything I can do for the restart?
+3,To Lewis Hamilton,"There’ll be plenty of opportunities, Lewis."
+,,
+3,To Dannil Kvyat,"Obviously tyres are quite cold but no worries, it’s the same for everyone."
+,,
+3,To Stoffel Vandoorne,OK Stoffel so only yourself and two Saubers have stopped. You’re the lead car of those.
+,,
+3,From Kevin Magnussen,We’re going really slow.
+3,To Kevin Magnussen,Yeah it’s the same thing for everybody. Warm the tyres as much as you can. Will be the same for everybody.
+,,
+3,To Max Verstappen,"Make sure you’re right on it now, mate. Good exit from turn 18."
+,,
+4,To Sergio Perez,Track clear. Caution front-right temperature.
+,,
+5,From Daniel Ricciardo,I can see my right-rear brake’s on fire. Just keep me posted.
+5,To Daniel Ricciardo,Understood.
+,,
+5,To Daniel Ricciardo,OK Daniel come in slowly please. We have a problem with the rear brakes. Don’t take any risks.
+,,
+6,To Daniel Ricciardo,OK Daniel box this lap. We are going to stop in the pit box and have a look. But Pedals will call whether we’re running or not.
+,,
+6,From Daniel Ricciardo,They’ve gone.
+6,To Daniel Ricciardo,"Yeah understood mate. If you can get back, roll back into the pit lane. We can see there is an issue, you’ve lost pressure in the rear brakes."
+,,
+6,From Daniel Ricciardo,Just be prepared to slow me down if I can’t.
+6,To Daniel Ricciardo,"OK Daniel we’re just going to have a look. And I think it is terminal. OK switch off, mate. Sorry about that."
+,,
+7,From Max Verstappen,Is it normal that I’m clipping so much?
+7,To Max Verstappen,"We’re on it, Max."
+,,
+7,From Lewis Hamilton,Getting some cut-outs on power.
+7,To Lewis Hamilton,"Copy that, we’re monitoring it. Nothing to worry about at the moment."
+,,
+8,From Lewis Hamilton,Is there something wrong? I keep getting [unclear].
+8,To Lewis Hamilton,"Yeah copy, nine to eight should help. Lewis just cool the car where you can on the straights, just to gewt some air in the [radiators]."
+,,
+9,To Max Verstappen,Alright Max these clips are a little bit bigger at this stage than normal. We do expect it to settle down in one or two laps. So basically Max could you push your brake balance as far forward as you can take it as this stage please mate.
+,,
+9,To Max Verstappen,OK Max just so you’re aware Daniel has retired at this stage. The forward brake balance is just to protect against that.
+,,
+9,To Daniil Kvyat,OK Danny let’s try to break the DRS of Stroll. He’s going to fly in the staright. Let’s break the DRS if we can.
+,,
+10,From Sebastian Vettel,Where are we losing the most compared to Bottas?
+10,To Sebastian Vettel,"Sector one, mainly."
+,,
+10,To Stoffel Vandoorne,Stoffel we have a five-second penalty for not going through the bollards on lap one. Magnussen the same.
+,,
+11,To Kevin Magnussen,We have a five seconds penalty for track limits in the race.
+,,
+11,From Kevin Magnussen,That’s not fair. I gave the position back. I passed the Williams and I gave it back.
+11,To Kevin Magnussen,"OK. Try to settle down, long race ahead."
+,,
+11,From Kevin Magnussen,Did you talk to Charlie?
+11,To Kevin Magnussen,Yeah we talked to Charlie.
+,,
+11,From Kevin Magnussen,It cannot be right.
+11,To Kevin Magnussen,"We cannot argue with the penalty. We have the race pace to score good points. Come on, settle down."
+,,
+12,To Lewis Hamilton,OK Lewis we are borderline on temps. Just do what you can do. This is good pace.
+,,
+12,From Lewis Hamilton,I’m trying to race.
+15,From Daniil Kvyat,I have de-rating in the last sector. It’s the rear caliper of something.
+15,To Daniil Kvyat,We’ll have a look.
+,,
+15,To Lewis Hamilton,OK Lewis we are hot on temps.
+,,
+15,From Lewis Hamilton,"Why is my car overheating, guys? I’m out of the race now."
+17,To Lewis Hamilton,We think other cars are struggling as well. We are not the only ones. It is hot out there.
+,,
+17,From Lewis Hamilton,"Keep me up-to-date, please."
+17,To Lance Stroll,OK Lance if you fee lthe tyres recover we have mode and overtake available.
+,,
+17,From Lance Stroll,I feel like they’re coming back but there’s still a lot of performance in a new set.
+17,To Lance Stroll,OK copy that. If we pit we’ll fall back behind the Saubers and they’ll go long.
+,,
+18,To Lewis Hamilton,"So good job, that was a tenth quicker than Vettel’s last lap, good job."
+,,
+18,From Lewis Hamilton,My temperature’s coming back up.
+18,To Kimi Raikkonen,"OK Hamilton is back pushing, I’ll monitor the gap.Wwe’re OK for now."
+,,
+18,From Kimi Raikkonen,What did you say? I have no idea what you said.
+18,To Kimi Raikkonen,Hamilton has started pushing again. I’ll monitor the gap and let you know what we need to do.
+,,
+19,From Sebastian Vettel,I have blisters on the front-left.
+19,To Sebastian Vettel,Copy it’s also reported on other drivers. You should be fine. Keep pushing like this.
+,,
+19,From Max Verstappen,I think I have a little bit of a weird blister on the left-front inside shoulder. It’s not hurting me but it looks very weird.
+19,To Max Verstappen,Copy.
+,,
+19,From Lewis Hamilton,Is the car OK?
+19,To Lewis Hamilton,"Yep car is on the limit, Lewis. Just keep doing what you’re doing for the moment."
+,,
+20,To Marcus Ericsson,OK Marcus how are the tyres?
+,,
+20,From Marcus Ericsson,Not great.
+20,To Marcus Ericsson,Understood.
+,,
+20,From Marcus Ericsson,Feels like they’re not working very good.
+20,To Marcus Ericsson,OK.
+,,
+20,To Valtteri Bottas,"So good job, half a second quicker than Vettel last lap."
+,,
+20,To Daniil Kvyat,"OK Danny we are still looking at our options. We have a problem with the Saubers behind us. The Saubers are a bit slow. We are looking at the options still. You are doing a very good job, clean race."
+,,
+21,From Max Verstappen,Yeah left-front is definitely a blister. It’s opening up a littel bit more.
+21,To Max Verstappen,"OK Max understood. Doesn’t seem to be affecting you too much at this stage, we’re not too concerned."
+,,
+21,From Lewis Hamilton,Are both cars struggling for temps?
+21,To Lewis Hamilton,Affirm both care are struggling. Valtteri has the advantage of being in free air.
+,,
+22,To Marcus Ericsson,"OK Marcus we need a very fast lap now. [Sate of Charge] five, we need everything you have."
+,,
+23,To Sergio Perez,Checo we’re getting close to the end of the stint. You can start to use everything from the tyre.
+,,
+23,To Lewis Hamilton,"Raikkonen 38.6, gap at three seconds."
+,,
+23,From Lewis Hamilton,I’ve got to stay on him.
+23,To Lewis Hamilton,"Copy that, Lewis. It is coming to us,"
+,,
+25,From Lewis Hamilton,Has anyone ahead pitted?
+25,To Lewis Hamilton,"Negative, Lewis, all the stops are happening behind us."
+,,
+26,From Valtteri Bottas,"Losing time with these guys, blue flags."
+26,To Valtteri Bottas,"Copy, copy."
+,,
+27,From Esteban Ocon,We have to pit as soon as possible.
+27,To Esteban Ocon,Understood.
+,,
+27,To Sebastian Vettel,Keep your head down. Very important phase of the race. Push now. We need everything.
+,,
+28,From Daniil Kvyat,"Not very smart to pit and get stuck in traffic, guys."
+28,To Daniil Kvyat,"Danny keep your head down, please."
+,,
+30,From Kimi Raikkonen,The rear is going.
+30,To Kimi Raikkonen,Understood. Do you want to stop or not Kimi? Need an answer now.
+,,
+30,From Kimi Raikkonen,OK we stop. Is it good to stop now?
+30,To Kimi Raikkonen,OK box this lap.
+,,
+30,From Lewis Hamilton,I’m on the last legs with these tyres.
+30,To Lewis Hamilton,OK.
+,,
+30,To Lewis Hamilton,"Box, box."
+,,
+30,From Lewis Hamilton,Do I need to go much more?
+30,From Max Verstappen,My pedal is going long. Braking for two it happened.
+30,To Max Verstappen,We’ll have a look. I’ll get back to you.
+,,
+31,To Stoffel Vandoorne,Stoffel we’ve looked at the previous set of tyres. The blistering you saw looks OK. That’s not a concern for us.
+,,
+31,To Sebastian Vettel,We are staying out. Pace is very good. Stay there.
+,,
+32,From Lewis Hamilton,Did we not stay out too long? I was losing a second and a half at that point.
+32,To Lewis Hamilton,"Yeah we’ll discuss it later, Lewis."
+,,
+32,From Lewis Hamilton,Have I come out far behind?
+32,To Lewis Hamilton,Gap to Raikkonen now eight seconds.
+,,
+32,From Lewis Hamilton,How is that so big?
+32,To Lewis Hamilton,"I think we lost a lot of time with that traffic, Lewis. Also it’s that new tyre advantage I think."
+,,
+33,To Kimi Raikkonen,We are 9.5 behind Bottas and eight tenths a lap quicker.
+,,
+33,From Kimi Raikkonen,"What do you mean, we are behind Bottas?"
+33,To Kimi Raikkonen,"Confirm, we are behind Bottas."
+,,
+33,From Kimi Raikkonen,How did we end up behind him?
+33,To Kimi Raikkonen,"He was leading the race, Kimi."
+,,
+33,From Kimi Raikkonen,Ah OK I thought they were the other way around.
+33,To Valtteri Bottas,"So you’re doing a really good job, Valtteri. The most important thing now is to get through this traffic as quickly as possible."
+,,
+33,To Sebastian Vettel,"And box, Sebastian, box for option. Mode box."
+,,
+33,To Sebastian Vettel,Stay out and back to mode push.
+,,
+34,To Valtteri Bottas,"So it’s just critical that you get past Kvyat as quickly as you can now, please."
+,,
+34,To Sebastian Vettel,"And box now Sebastian, confirm the box."
+,,
+36,To Lewis Hamilton,Verstappen is 39.1 last lap.
+,,
+36,From Lewis Hamilton,Where is Verstappen?
+36,To Lewis Hamilton,Verstappen curently 21 seconds behind.
+,,
+36,From Lewis Hamilton,Why am I focused on him?
+36,To Lewis Hamilton,We need to maintain the Safety Car window to him to make sure that we can stop should anything happen in the race. We don’t want to drop back into his window.
+,,
+38,From Kimi Raikkonen,"Is the brakes OK? It feels a little bit soft, the pedal."
+38,To Kimi Raikkonen,I’ll get back to you.
+,,
+38,To Kimi Raikkonen,Front calipers are a little bit hot. We are seeing a longer travel but it’s OK for now.
+,,
+39,To Carlos Sainz Jnr,OK Carlos from data we can see something strange at the rear. Please avoid kerbs as much as you can with the rear.
+,,
+39,To Sebastian Vettel,"Bottas 9.1, 9.1 for Bottas. Nearly one second faster. He went wide turn 13. He has a big flat spot on the left-front."
+,,
+40,From Max Verstappen,I went wide at turn eight. Suddenly just lost the rear.
+40,To Max Verstappen,Just watch the wind behind you at turn eight.
+,,
+40,To Max Verstappen,So Max similarly you might feel the car affected into 13 as well.
+,,
+41,From Lewis Hamilton,Is that the check the pace of the front cars.
+41,To Lewis Hamilton,"Vettel has picked up the pace, last lap was a 37.7. 38.5 for Valtteri."
+,,
+41,From Valtteri Bottas,[Unclear] the engine if you can It’s helping the tyres.
+43,To Sergio Perez,Massa has boxed.
+,,
+43,From Sergio Perez,Why?
+43,To Sergio Perez,"Checo we don’t know, he’s on ultra-soft. We’ll keep you updated."
+,,
+44,To Valtteri Bottas,Just press the overtake a bit earlier on the two main straights.
+,,
+44,From Valtteri Bottas,Over the last laps I want less talking.
+44,To Valtteri Bottas,"Copy that, we’ll leave you in peace to get on with it."
+,,
+45,To Marcus Ericsson,OK Marcus seven laps to go. Try to stay in Verstappen’s gearbox as much as possible.
+,,
+46,From Kimi Raikkonen,I got my tyres full of pick-up because that guy just stayed on the line. I had to go over the pick-up.
+46,To Kimi Raikkonen,Understood.
+,,
+47,To Sebastian Vettel,Very good middle sector. It’s impressive. Keep putting pressure on him. He will make a mistake. Four-tenths slower than you.
+,,
+47,From Carlos Sainz Jnr,Yes this thing is starting to bounce a lot.
+47,To Carlos Sainz Jnr,"Understood Carlos. Bring her home. At the moment P10, five laps to go."
+,,
+48,From Daniil Kvyat,The engine braking is inconsistent.
+48,To Daniil Kvyat,"Copy, Danny, we asre looking at it."
+,,
+49,From Max Verstappen,There’s some debris in turn five.
+50,To Daniil Kvyat,"Danny we need multi eight de-rate position eleven, urgent. We will have a small performance offset, Danny a small performance loss. I will explain later why."
+,,
+51,To Sebastian Vettel,Two more laps and traffic ahead.
+,,
+52,From Sebastian Vettel,What was that?
+52,To Sebastian Vettel,We saw that. Keep your head down.
+,,
+VL,To Valtteri Bottas,Yes! Brilliant! Well done!
+,,
+VL,From Valtteri Bottas,Ha ha! [Censored by FOM] me. Took quite a while. More than 80 races.
+VL,To Valtteri Bottas,It did take a bit of a while but well done. Immense pressure. Well done.
+,,
+VL,From Valtteri Bottas,"Worth the wait. The race team and the factory, thanks very much for making this possible. Also thanks family."
+VL,To Valtteri Bottas,"Well done mate, brilliant drive."
+,,
+VL,From Valtteri Bottas,"Yeah thanks so much guys. It means a lot, difficult to say more, but very thankful for you too."
+VL,To Sebastian Vettel,"P2 Sebastian. Strong race, well done."
+,,
+VL,From Sebastian Vettel,OK grazie a tutti. Yeah the Williams at the end… I thought we might get another shot on the back straight. Yeah. Car was good today. Grazie a tutti. Grande lavoro.
+VL,To Lewis Hamilton,OK Lewis. Tough old race there mate. But P4 in the end. Not where we want to be.
+,,
+VL,To Max Verstappen,"Alright Max P5, good job. It was a lonely race."
+,,
+VL,From Max Verstappen,Yeah it was not bad I think the car felt pretty OK in the race in terms of balance.
+VL,To Max Verstappen,Well done mate that was the absolute maximum. In fact your pace in the last 25 percent of the race looked pretty decent.
+,,
+VL,From Max Verstappen,Yeah exactly I think like I said the balance was quite good now so I think we can be quite pleased for that.
+VL,To Max Verstappen,Another good start.
+,,
+VL,To Sergio Perez,"Well doen Checo great job P6, well done, good start, great pace."
+,,
+VL,From Sergio Perez,"Good job man, good job guys. Good result for the team, eh?"
+VL,To Sergio Perez,"Yep, great one."
+,,
+VL,To Esteban Ocon,"Great job Esteban, P7. Well done, mate."
+,,
+VL,From Esteban Ocon,"Good job guys, great effort all weekend, congrats everyone. Pit stop, engineering crew, really good job."
+VL,To Esteban Ocon,Thank you Esteban.
+,,
+VL,To Nico Hulkenberg,"OK Nico that’s the chequered flag. Great job, mate, well done."
+,,
+VL,From Nico Hulkenberg,Nice ride! Not bad.
+VL,To Nico Hulkenberg,"Great job Nico, really really good. Finishing P8, that’s excellent for us at this track. Fantastic job, mate."
+,,
+VL,From Nico Hulkenberg,"Thank you guys. Good job to. Why did Massa do a two-stop, he a problem or genuine?"
+VL,To Nico Hulkenberg,"Puncture, he had a puncture."
+,,
+VL,From Nico Hulkenberg,What was the gap to Perez at the end?
+VL,To Nico Hulkenberg,"Perez was 9.3 seconds ahead. But on this track, that’s not too bad, we can get him next time."
+,,
+VL,From Nico Hulkenberg,"Yeah shame we lost so much at the start, we could have got one Force India."
+VL,To Nico Hulkenberg,"Yep, but there you go."
+,,
+VL,To Felipe Massa,"So that’s P9, unfortunately. Deserved a lot more than that."
+,,
+VL,To Carlos Sainz Jnr,P10 Carlos. P10. Good job. Another one point in the bag. Our first one in Russia. Good job.
+,,
+VL,From Carlos Sainz Jnr,Yep good recovery from Friday and from the penalty. Thanks to the mechanics. Good job everyone.
+VL,To Lance Stroll,"Good job Lance, P11."
+,,
+VL,From Lance Stroll,"Sorry about the spin at the beginning. Not sure what happened there. We finished the race at least, first for everything."
+VL,To Lance Stroll,You drive well and we were having to managed several factors in that so you did well with that.
+,,
+VL,From Lance Stroll,"Well done Lance, your first finish well done."
+VL,To Lance Stroll,"Thank you. Just to confirm, where do I go? Do I go to the garage?"
+,,
+VL,From Lance Stroll,"Negative, just follow the cars to parc ferme to get weighed."
+VL,To Daniil Kvyat,"Keep it cool please, keep it cool. I know what you have in mind. You’ve done a very good job mate."
+,,
+VL,From Daniil Kvyat,Yeah I don’t know what happened at the moment. Pace at the end was very good. The car was for the first time good with good balance.
+VL,To Daniil Kvyat,Yep we were one of the fastest cars on track with the guys around us.
+,,
+VL,To Kevin Magnussen,Disappointing final result but we have a European race to recover and we will do it.
+,,
+VL,To Stoffel Vandoorne,Stoffel well done today. We finished P14 in the end.
+,,
+VL,From Stoffel Vandoorne,Yeah there wasn’t really much to do. The car felt pretty decent when I was running with the others. But on the straight I was losing a lot of lap time.
+VL,To Marcus Ericsson,"OK Marcus we finished P15. It was a pretty solid second stint. Shame for the first stint, a bit of a slow start. How was it on your side.?"
+,,
+VL,From Marcus Ericsson,"First stint was terrible. Struggled really bad. And even for me the second stint doesn’t feel very good, the balance. So a step back from the rest of the weekend I was surprised."
+VL,To Marcus Ericsson,OK we’ll have to have a look because your lap time was pretty good on the second stint.
